@@ -4,4 +4,4 @@ title: "first article"
 date: 2017-07-28
 ---
 
-test
+能写中文吗。
