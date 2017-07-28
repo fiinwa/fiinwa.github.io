@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "《三个最奇怪的词》"
+title: "三个最奇怪的词"
 date: 2017-07-28
 ---
 
